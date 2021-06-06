@@ -25,11 +25,11 @@ Ardından `$ react-native start` ve `$ npx react-native run-android` ile android
 Gelen kullanıcı verileri farklı sayfalarda kullanılacaksa bu verileri de **Context api** yardımıyla global state e eklenebilir.<br/>
 Kullanıcı uygulamadan çıktıktan sonra verileri silinecektir. Bu yüzden verilerin asenkron depolama ile tutulması gerekebilir.
 Bu ve kullandığım diğer kaynaklar:<br/>
-[Navigation](https://reactnavigation.org/docs/getting-started/)
-[Vector Icons](https://github.com/oblador/react-native-vector-icons)
-[Context API](https://blog.devgenius.io/react-native-state-management-with-context-api-61f63f5b099)
-[Axios](https://www.npmjs.com/package/axios)
-[Asenkron depolama](https://react-native-async-storage.github.io/async-storage/docs/install/)
+[Navigation](https://reactnavigation.org/docs/getting-started/)<br/>
+[Vector Icons](https://github.com/oblador/react-native-vector-icons)<br/>
+[Context API](https://blog.devgenius.io/react-native-state-management-with-context-api-61f63f5b099)<br/>
+[Axios](https://www.npmjs.com/package/axios)<br/>
+[Asenkron depolama](https://react-native-async-storage.github.io/async-storage/docs/install/)<br/>
 
 
 
